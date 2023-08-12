@@ -1,6 +1,3 @@
-
-
-
 # **Introduction 🚀**
 
 ### **3D Neural Pathway Visualizer**
@@ -11,7 +8,7 @@
 
 ## **Use Case 💬**
 
-Medical students, neurologists, and neurosurgeons can utilize this tool for both educational and pre-surgical planning purposes. This tool can help visualize potential problem areas, plan surgeries, or simply understand the neural structures better.
+Medical students, neurologists, and neurosurgeons can utilize this tool for both educational and pre-surgical planning purposes. This tool can help visualize potential problem areas, plan surgeries, or simply understand the neural structures better.Better visualisation can also aid in discovery of new treatment strategies as well!
 
 ## **Motivation 💡**
 
@@ -28,6 +25,8 @@ The brain, being the epicenter of human function, is still a frontier of discove
 ## **Market Strategy & Profitability 💼**
 
 Partnering with universities, medical schools, and online educational platforms to integrate our tool into their curriculum. Potential for a subscription model for continual updates and refined models.
+
+Drug discovery agencies and pharma industries 
 
 ## **Tools Used 🛠**
 
@@ -69,11 +68,3 @@ Expanding to other organs, integrating AI for predictive analytics on neural dis
 [Link to your demo, if available.]
 
 ## **Contributors 🤝**
-
-Emails Here : 
-
----
-
-1. **Educational Anatomy Models:**
-    - Allow medical students to visualize and manipulate complex 3D structures like organs, tissues, or cellular structures.
-    - Include annotations and information to make it an educational tool.
