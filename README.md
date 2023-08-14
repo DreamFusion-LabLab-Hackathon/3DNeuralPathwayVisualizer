@@ -65,6 +65,21 @@ Expanding to other organs, integrating AI for predictive analytics on neural dis
 
 ## **Proof of Concept/Demo 🎞️**
 
-[Link to your demo, if available.]
+[Link to demo] 
+
+https://youtu.be/GldYnwFc34s
+
+https://youtu.be/qTxUz2lA0lo
+
+https://www.youtube.com/watch?v=e-gs8gXlhuw
 
 ## **Contributors 🤝**
+1)Anubhab Majumdar
+
+2)Laiba Idrees
+
+3)Khizar Abbas
+
+4)Shantalia
+
+5)Elijah Adebayo
