@@ -4,7 +4,7 @@
 
 **Tagline:** *"Illuminating the brain's intricate pathways with 3D immersion."*
 
-**Description:** Dive deep into the brain's vast neural networks with our 3D Neural Pathway Visualizer. Powered by Dreamfusion's advanced 3D generative capabilities, we bring forth an unparalleled clarity and precision to understanding the brain's complexities.
+**Description:** Dive deep into the brain's vast neural networks with our 3D Neural Pathway Visualizer. Powered by Point-E advanced 3D generative capabilities, we bring forth an unparalleled clarity and precision to understanding the brain's complexities.
 
 ## **Use Case 💬**
 
@@ -30,11 +30,11 @@ Drug discovery agencies and pharma industries
 
 ## **Tools Used 🛠**
 
-**Dreamfusion:** Leveraged for generating intricate 3D neural pathways, offering a true-to-life representation of brain anatomy.
+**Point-E:** Leveraged for generating intricate 3D neural pathways, offering a true-to-life representation of brain anatomy.
 
 ## **Tech Stack & Scalability 🚀**
 
-Built on a robust webGL framework for seamless browser integration. Uses cloud computation for real-time rendering, ensuring scalability as user base grows.
+We used Google Colab, Blender, and Unity to create a scalable 3D brain anatomy model that can be used in WebGL or mobile apps.
 
 ## **Ideas & Planning 🧠**
 
